@@ -1,3 +1,6 @@
+Modified by raitch to add tk-multi-publish2 to tk-desktop
+1. Unzip or git pull this config
+2. Run `tank updates project tk-desktop` in the appropriate place
 -------------------------------------------------------------------------
 The Shotgun Pipeline Toolkit Standard Project Configuration
 -------------------------------------------------------------------------
